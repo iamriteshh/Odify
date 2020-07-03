@@ -1,4 +1,4 @@
-03-07-2020 691Time zone: UTC+05:30)]
+03-07-2020 675Time zone: UTC+05:30)]
 Setup version: Inno Setup version 5.5.9 (u)
 4-bit install mode: No
 Created temporary directory: C:\WINDOWS\TempInst\is-GR0JF.tmp
