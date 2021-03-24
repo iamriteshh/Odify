@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "410585803417",
+    "firebase_url": "https://srm-rmp-odify.firebaseio.com",
+    "project_id": "srm-rmp-odify",
+    "storage_bucket": "srm-rmp-odify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410585803417:android:74fb88ed92afd47113a608",
+        "android_client_info": {
+          "package_name": "com.agrimlabsrm.odify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410585803417-m64i7af4r278g4e40skf9g8sq4kp8glo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSK7zafkPuPLZDOJa5JqNk5qydLpfiTnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410585803417-m64i7af4r278g4e40skf9g8sq4kp8glo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
